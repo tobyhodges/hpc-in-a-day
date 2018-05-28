@@ -24,7 +24,7 @@ While submitting more tests jobs, Lola observes that she always mirrors the curr
 ~~~
 {: .bash}
 
-Now Lola tries one of the monitoring commands, the she discovered in the manpages of her scheduletc/bash_completioner:
+Now Lola tries one of the monitoring commands, the she discovered in the manpages of her scheduler:
 
 ~~~
 {% include /snippets/02/monitor_hostname_date_sleep.{{ site.workshop_scheduler }} %}
